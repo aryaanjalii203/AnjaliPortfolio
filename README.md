@@ -1,2 +1,2 @@
 # AnjaliPortfolio
-#Portfolio of Anjali Kumari
+#Anjali's Portfolio
